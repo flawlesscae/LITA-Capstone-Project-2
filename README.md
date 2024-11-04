@@ -17,6 +17,13 @@ This analysis report shows a concise insights into customer behaviour regarding 
 
 [Analysis, Visualization and Inference](#Analysis-Visualization-and-Inference)
 
+[Analysis](#Analysis)
+
+[Visualization](#Visualization)
+
+[Inference](#Inference)
+
+
 ### Overview
 ---
 The primary goal of this analysis report is to gain insights into customer behaviour regarding their subscription patterns and the associated revenue generated for the services arm of company XYZ. 
@@ -55,8 +62,40 @@ The goals/objectives of this report is to:
 The dataset (as seen in the exerpts above) was cleaned and prepared using Microsoft Excel and certain formulas were employed to calculate average subscription duration and to identify the most subscription type as shown below.
 
 
-
 ## Exploratory Data Analysis
-### Analysis, Visualization and Inference
+## Analysis, Visualization and Inference
+
+### Analysis
 ---
+#### Excel
+
+#### SQL
+![0  CustomerData](https://github.com/user-attachments/assets/09eb643e-524f-4df1-a02a-feebad5d3e7f)
+
+![1  CustomerData](https://github.com/user-attachments/assets/8fcadd1c-5fa4-4242-8e3c-9e59838043de)
+
+![2  CustomerData](https://github.com/user-attachments/assets/a2104259-a0f0-4966-8d92-68301c08baca)
+
+![3  CustomerData](https://github.com/user-attachments/assets/56c46569-44ff-4181-963f-1408cb70eb26)
+
+![4  CustomerData](https://github.com/user-attachments/assets/89b4665b-3d61-4ab3-9f74-d115db92e1d1)
+
+![5  CustomerData](https://github.com/user-attachments/assets/30dfd434-1c84-4a2d-b958-b29ebf8688b3)
+
+![6  CustomerData](https://github.com/user-attachments/assets/8aab8ba1-851a-426a-bd9d-1a72a63668bb)
+
+![7  CustomerData](https://github.com/user-attachments/assets/a5ecff4d-84e7-49f2-ba42-dcda8de029c0)
+
+![8  CustomerData](https://github.com/user-attachments/assets/3aebec64-2fbe-4e44-9610-ae87ab09ee39)
+
+
+### Visualization
+---
+#### Power Bi
+
+
+### Inference
+---
+
+
 
