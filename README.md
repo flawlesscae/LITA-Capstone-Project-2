@@ -1,5 +1,5 @@
 # LITA-Capstone-Project-2
-This analysis report shows a concise insights into customer behaviour regarding subscription patterns and the associated revenue for the services arm of company XYZ.
+This analysis report offers a succinct overview of customer behavior regarding subscription patterns and the associated revenue for the services division of company XYZ, utilizing tools like Microsoft Excel, SQL Server, and Power BI.
 
 ## Analyzing Customer Data for Subscription Patterns and Revenue
 ## Outline
