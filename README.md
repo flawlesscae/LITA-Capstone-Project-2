@@ -82,6 +82,13 @@ Below are screenshots showing the results for average subscription duration and 
 
 ![count of sub  type B](https://github.com/user-attachments/assets/7be3d30d-f3f3-4dc4-af92-5682bab16a2d)
 
+Using pivot tables to find subscription patterns
+
+
+Top 10 Customers by Revenue 
+![top 10 customers](https://github.com/user-attachments/assets/ad437247-2ea2-46b8-848f-119899d1e102)
+
+
 ## Exploratory Data Analysis
 ## Analysis, Visualization and Inference
 
