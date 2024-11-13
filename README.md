@@ -60,29 +60,49 @@ The goals/objectives of this report is to:
 ### Data Preparation and Cleaning
 ---
 The dataset (as seen in the exerpts above) was cleaned and prepared using Microsoft Excel and certain formulas were employed to calculate 
-1. average subscription duration and
-2. to identify the most subscription type as shown below.
+1. average subscription duration,
+2. to identify the most subscription type as shown below and
+3. total revenue by region.
 
 ```
 1. =AVERAGEIF(D:D, D2, L:L) 
 
 2. =COUNTIF(D:D, D2)
-where D:D represents the column which contains the data for suscription types and L:L represents the calculated column containing subscription duration.
+
+3. =SUMIF(C:C, C2, H:H)
+
+where C:C represents the column which contains the data for region, D:D - suscription types, H:H - revenue and L:L is a calculated column containing subscription duration.
 ```
 
 Below are screenshots showing the results for average subscription duration and the identification of the the most popular subscription type using excel formulas and also pivot tables.
 
-**Average Subscription Duration**
-![Avg  Sub Formula](https://github.com/user-attachments/assets/247a3f55-9b48-4240-8426-5bc5e4d988ae)
+**Average Subscription Duration** 
 
-![avg  sub  duration B](https://github.com/user-attachments/assets/8bdf310c-428d-4b8b-9ea7-a2f1fa454f38)
+**Using Formula** ![Avg  Sub Formula](https://github.com/user-attachments/assets/247a3f55-9b48-4240-8426-5bc5e4d988ae)
+
+**Using Pivot Tables** ![avg  sub  duration B](https://github.com/user-attachments/assets/8bdf310c-428d-4b8b-9ea7-a2f1fa454f38)
+
 
 **Most Popular Subscription Type**
-![count of sub  type](https://github.com/user-attachments/assets/78416198-e8af-4b25-b469-610a23c54730)
 
-![count of sub  type B](https://github.com/user-attachments/assets/7be3d30d-f3f3-4dc4-af92-5682bab16a2d)
+**Using Formula** ![count of sub  type](https://github.com/user-attachments/assets/78416198-e8af-4b25-b469-610a23c54730)
 
-Using pivot tables to find subscription patterns
+**Using Pivot Table** ![count of sub  type B](https://github.com/user-attachments/assets/7be3d30d-f3f3-4dc4-af92-5682bab16a2d)
+
+
+**Total Revenue** 
+
+**Using Formula** ![Total Revenue Formula](https://github.com/user-attachments/assets/afd33935-9e20-402f-93f0-6d33ddb90441)
+
+**Using Pivot Table** ![sum of revenue by region](https://github.com/user-attachments/assets/e968c8f2-8eaa-4fee-8360-0c2e986e4f7e)
+
+
+**Using pivot tables to find subscription patterns**
+![revenue by sub  type](https://github.com/user-attachments/assets/a18b2fe9-4c3c-41d8-93df-1166b3114889)
+
+![revenue,sub  type, canceled](https://github.com/user-attachments/assets/3a0ab653-3c11-4685-949e-b113c28a2ee7)
+
+![region,revenue,sub  canceled](https://github.com/user-attachments/assets/39ac6e8e-c5a0-4abc-94b5-79f9d0fb5eaa)
 
 
 Top 10 Customers by Revenue 
