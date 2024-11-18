@@ -139,6 +139,39 @@ Top 10 Customers by Revenue
 ### Visualization
 ---
 #### Power Bi
+![General 1](https://github.com/user-attachments/assets/68a68e67-efbe-4cdc-a6b3-e21ac92993f0)
+
+![General 2](https://github.com/user-attachments/assets/a1bf85c1-ce56-45ce-b4e5-603219dab2b8)
+
+![General 3](https://github.com/user-attachments/assets/6f5d47e8-20d5-43dd-83f7-3f298f59f918)
+
+Visuals for East Region
+![East 1](https://github.com/user-attachments/assets/bc79e4f9-8cf7-4fd8-b281-f4aa1b47b7b1)
+
+![East 2](https://github.com/user-attachments/assets/9a38e098-6a3b-4e1a-8c00-65e8899668a9)
+
+![East 3](https://github.com/user-attachments/assets/5d619e14-1c15-41de-9b0b-d5285486b1c3)
+
+Visuals for North Region
+![North 1](https://github.com/user-attachments/assets/9ded5a6c-a671-47a5-8ace-60d8aea22d12)
+
+![North 2](https://github.com/user-attachments/assets/26707d94-5233-49ac-9a7d-b8db0e2849c7)
+
+![North 3](https://github.com/user-attachments/assets/e331721b-09e2-489a-9674-a21304e7b8a9)
+
+Visuals for South Region
+![South 1](https://github.com/user-attachments/assets/28b0b63a-6cb8-4acf-b67a-f39fbb5b707a)
+
+![South 2](https://github.com/user-attachments/assets/0fbbcaf1-b499-4e2d-8058-de2c86e31037)
+
+![South 3](https://github.com/user-attachments/assets/47d36c63-9f22-49ea-8865-e6e15564ada2)
+
+Visuals for West Region
+![West 1](https://github.com/user-attachments/assets/02efc403-fcb1-4838-8260-de9626e0ff7f)
+
+![West 2](https://github.com/user-attachments/assets/1d9efeb6-7118-43dc-88a8-7d03e57bed79)
+
+![West 3](https://github.com/user-attachments/assets/897d8005-077f-48b7-aebd-eb51942e7004)
 
 
 ### Inference
