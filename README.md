@@ -177,5 +177,10 @@ Visuals for West Region
 ### Inference
 ---
 
+**Link for Tools Download**
+1. Microsoft Excel [Download Microsoft Excel Here](https://www.microsoft.com)
+   
+2. Microsoft SQL Server [Download Microsoft SQL SSMS Here](https://www.microsoft.com)
 
+3. Microsoft Power Bi [Download Microsoft Power Bi Here](https://www.microsoft.com)
 
