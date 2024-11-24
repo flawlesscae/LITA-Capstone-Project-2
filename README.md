@@ -74,7 +74,7 @@ The dataset (as seen in the exerpts above) was cleaned and prepared using Micros
 where C:C represents the column which contains the data for region, D:D - suscription types, H:H - revenue and L:L is a calculated column containing subscription duration.
 ```
 
-Below are screenshots showing the results for average subscription duration and the identification of the the most popular subscription type using excel formulas and also pivot tables.
+Below are screenshots showing the results for average subscription duration and the identification of the the most popular subscription type using excel formulas and also pivot tables alongside other interesting reports from the data provided.
 
 **Average Subscription Duration** 
 
@@ -105,7 +105,7 @@ Below are screenshots showing the results for average subscription duration and 
 ![region,revenue,sub  canceled](https://github.com/user-attachments/assets/39ac6e8e-c5a0-4abc-94b5-79f9d0fb5eaa)
 
 
-Top 10 Customers by Revenue 
+**Top 10 Customers by Revenue**
 ![top 10 customers](https://github.com/user-attachments/assets/ad437247-2ea2-46b8-848f-119899d1e102)
 
 
@@ -114,9 +114,8 @@ Top 10 Customers by Revenue
 
 ### Analysis
 ---
-#### Excel
+Shown below are the analysis and insights generated from the dataset provided using Microsoft SQL SSMS Queries.
 
-#### SQL
 ![0  CustomerData](https://github.com/user-attachments/assets/09eb643e-524f-4df1-a02a-feebad5d3e7f)
 
 ![1  CustomerData](https://github.com/user-attachments/assets/8fcadd1c-5fa4-4242-8e3c-9e59838043de)
@@ -138,7 +137,7 @@ Top 10 Customers by Revenue
 
 ### Visualization
 ---
-#### Power Bi
+Visual Representation for all the Regions
 ![General 1](https://github.com/user-attachments/assets/68a68e67-efbe-4cdc-a6b3-e21ac92993f0)
 
 ![General 2](https://github.com/user-attachments/assets/a1bf85c1-ce56-45ce-b4e5-603219dab2b8)
@@ -176,6 +175,25 @@ Visuals for West Region
 
 ### Inference
 ---
+- **Revenue and Customers:**
+The company generated a total revenue of $67,540,175 and has a total of 33,787 customers.
+- **Subscription Types and Renewals:**
+There are three types of subscriptions: Basic, Premium, and Standard. The majority of customers (15,175) have the Standard subscription.
+A significant number of customers (18,612) did not renew their subscriptions.
+- **Regions and Average Subscription Duration:**
+The company operates in four regions: East, North, South, and West.
+The average subscription duration across all regions is 365 days.
+There is a variation in average subscription duration by region, with some regions having higher average durations than others.
+- **Overall:**
+The company has a significant number of customers and generates substantial revenue.
+However, the high number of canceled subscriptions suggests that there may be issues with customer retention.
+Further analysis is needed to understand the reasons for cancellations and to improve customer retention strategies.
+
+**Additional Insights:**
+- **Subscription Renewal:** The company could focus on improving its renewal rates, especially for the Standard subscription type, which has the highest number of cancellations.
+- **Customer Segmentation:** Segmenting customers based on their subscription type and region could help identify specific areas for improvement.
+- **Customer Satisfaction:** Conducting customer surveys to understand their satisfaction levels and pain points could provide valuable insights for enhancing the customer experience.
+
 
 **Link for Tools Download**
 1. Microsoft Excel [Download Microsoft Excel Here](https://www.microsoft.com)
